@@ -8,7 +8,7 @@
   "gxDependencies": [
     {
       "author": "whyrusleeping",
-      "hash": "QmcaSwFc5RBg8yCq54QURwEU4nwjfCpjbpmaAm4VbdGLKv",
+      "hash": "QmQa6RTrkbGuNSSd8eZWYuf4adZkmhY4HUtddbx1SdD5YQ",
       "name": "go-logging",
       "version": "0.0.0"
     },
